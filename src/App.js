@@ -30,6 +30,7 @@ function App() {
   }
   return (
     <div className="App">
+      <h1>Meme Generator</h1>
       <select onChange={onChangeImagen}>
         <option value="fire">Casa en llamas</option>
         <option value="futurama">Futurama</option>
